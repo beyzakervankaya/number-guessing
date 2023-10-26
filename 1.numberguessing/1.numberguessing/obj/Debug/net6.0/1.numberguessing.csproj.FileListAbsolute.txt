@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.AssemblyInfo.cs
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\bin\Debug\net6.0\1.numberguessing.exe
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\bin\Debug\net6.0\1.numberguessing.deps.json
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\bin\Debug\net6.0\1.numberguessing.runtimeconfig.json
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\bin\Debug\net6.0\1.numberguessing.dll
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\bin\Debug\net6.0\1.numberguessing.pdb
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.dll
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\refint\1.numberguessing.dll
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.pdb
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\1.numberguessing.genruntimeconfig.cache
+C:\Users\beyza\Desktop\nolur\1.numberguessing\1.numberguessing\obj\Debug\net6.0\ref\1.numberguessing.dll
